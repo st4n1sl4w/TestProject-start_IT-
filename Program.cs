@@ -10,7 +10,7 @@ namespace ConsoleApp42
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This work! Version 1.0");
+            Console.WriteLine("This work! Version 2.0");
             Console.ReadLine();
         }
     }
